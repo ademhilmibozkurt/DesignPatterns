@@ -1,0 +1,7 @@
+E:\projects\C#\DesignPatterns\Decorater\bin\Debug\Decorater.exe.config
+E:\projects\C#\DesignPatterns\Decorater\bin\Debug\Decorater.exe
+E:\projects\C#\DesignPatterns\Decorater\bin\Debug\Decorater.pdb
+E:\projects\C#\DesignPatterns\Decorater\obj\Debug\Decorater.csprojAssemblyReference.cache
+E:\projects\C#\DesignPatterns\Decorater\obj\Debug\Decorater.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Decorater\obj\Debug\Decorater.exe
+E:\projects\C#\DesignPatterns\Decorater\obj\Debug\Decorater.pdb

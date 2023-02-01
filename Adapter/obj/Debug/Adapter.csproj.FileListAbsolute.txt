@@ -1,0 +1,7 @@
+E:\projects\C#\DesignPatterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+E:\projects\C#\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+E:\projects\C#\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+E:\projects\C#\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+E:\projects\C#\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+E:\projects\C#\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

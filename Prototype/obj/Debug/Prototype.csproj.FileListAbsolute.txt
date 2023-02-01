@@ -1,0 +1,6 @@
+E:\projects\C#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+E:\projects\C#\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+E:\projects\C#\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+E:\projects\C#\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+E:\projects\C#\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

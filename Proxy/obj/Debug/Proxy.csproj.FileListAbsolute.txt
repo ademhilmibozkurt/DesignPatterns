@@ -1,0 +1,7 @@
+E:\projects\C#\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+E:\projects\C#\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+E:\projects\C#\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+E:\projects\C#\DesignPatterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+E:\projects\C#\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+E:\projects\C#\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

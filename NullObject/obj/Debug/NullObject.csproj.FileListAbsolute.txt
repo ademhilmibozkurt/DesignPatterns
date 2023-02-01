@@ -1,0 +1,6 @@
+E:\projects\C#\DesignPatterns\NullObject\bin\Debug\NullObject.exe.config
+E:\projects\C#\DesignPatterns\NullObject\bin\Debug\NullObject.exe
+E:\projects\C#\DesignPatterns\NullObject\bin\Debug\NullObject.pdb
+E:\projects\C#\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\NullObject\obj\Debug\NullObject.exe
+E:\projects\C#\DesignPatterns\NullObject\obj\Debug\NullObject.pdb

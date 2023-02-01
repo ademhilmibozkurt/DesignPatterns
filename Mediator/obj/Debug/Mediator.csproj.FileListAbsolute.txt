@@ -1,0 +1,7 @@
+E:\projects\C#\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+E:\projects\C#\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+E:\projects\C#\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+E:\projects\C#\DesignPatterns\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+E:\projects\C#\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+E:\projects\C#\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

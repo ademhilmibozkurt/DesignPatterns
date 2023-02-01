@@ -1,0 +1,7 @@
+E:\projects\C#\DesignPatterns\Command\bin\Debug\Command.exe.config
+E:\projects\C#\DesignPatterns\Command\bin\Debug\Command.exe
+E:\projects\C#\DesignPatterns\Command\bin\Debug\Command.pdb
+E:\projects\C#\DesignPatterns\Command\obj\Debug\Command.csprojAssemblyReference.cache
+E:\projects\C#\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Command\obj\Debug\Command.exe
+E:\projects\C#\DesignPatterns\Command\obj\Debug\Command.pdb

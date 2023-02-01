@@ -1,0 +1,6 @@
+E:\projects\C#\DesignPatterns\Multiton\bin\Debug\Multiton.exe.config
+E:\projects\C#\DesignPatterns\Multiton\bin\Debug\Multiton.exe
+E:\projects\C#\DesignPatterns\Multiton\bin\Debug\Multiton.pdb
+E:\projects\C#\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\Multiton\obj\Debug\Multiton.exe
+E:\projects\C#\DesignPatterns\Multiton\obj\Debug\Multiton.pdb

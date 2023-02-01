@@ -1,0 +1,6 @@
+E:\projects\C#\DesignPatterns\State\bin\Debug\State.exe.config
+E:\projects\C#\DesignPatterns\State\bin\Debug\State.exe
+E:\projects\C#\DesignPatterns\State\bin\Debug\State.pdb
+E:\projects\C#\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+E:\projects\C#\DesignPatterns\State\obj\Debug\State.exe
+E:\projects\C#\DesignPatterns\State\obj\Debug\State.pdb
